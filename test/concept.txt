@@ -1,0 +1,2 @@
+forge test --match-test testFundUpdatesFundedDataStructure 
+forge install ChainAccelorg/foundry-devops --no-commit
